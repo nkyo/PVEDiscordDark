@@ -284,3 +284,4 @@ parse_cli()
 }
 
 parse_cli "$@"
+wget -O /usr/share/pve-manager/images/proxmox_logo.png https://raw.githubusercontent.com/nkyo/PVEDiscordDark/master/PVEDiscordDark/images/proxmox_logo.png
